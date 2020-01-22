@@ -1,4 +1,4 @@
 names = ['Thomas', 'Noel', 'Faraz']
-names.each do |name|
-puts "Hello #{name}"
+names.each do |x|
+puts "Hello #{x}"
 end
