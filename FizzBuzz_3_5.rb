@@ -11,9 +11,10 @@ end
 if nr%5==0
     words+="Buzz"
 end
-
 puts words
-
+if words==""
+    print nr
+end
 
 
 
